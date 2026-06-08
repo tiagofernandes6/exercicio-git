@@ -1,1 +1,1 @@
-"Este � um novo ficheiro de teste" 
+﻿"Este é um novo ficheiro de teste."
